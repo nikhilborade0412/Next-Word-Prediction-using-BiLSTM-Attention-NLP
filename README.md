@@ -11,7 +11,7 @@ The project is implemented using Jupyter Notebooks and includes data preprocessi
 
 ```
 
-.
+
 ├── notebook/                # Jupyter notebooks for experimentation and model development 
 |    └── RNN_Project.ipynb	
 |  
