@@ -65,19 +65,13 @@ The **WikiText-2 dataset** is a collection of high-quality Wikipedia articles us
    git clone https://github.com/your-username/your-repo-name.git
    cd your-repo-name
 
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Open Jupyter Notebook:
+2. Open Jupyter Notebook:
 
    ```bash
    jupyter notebook
    ```
 
-4. Run notebooks inside the `notebook/` folder.
+3. Run notebooks inside the `notebook/` folder.
 
 ---
 
